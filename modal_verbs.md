@@ -56,7 +56,7 @@ If you can't replace `maybe` with `perhaps`, use the `may be`.
 `Could` often means that something is possible but unlikely.
 > You could win a million dollars in this game!
 
-`Might not` and `may no` mean that it is possible that something is not the case, while `could not` means that something is impossible.
+`Might not` and `may not` mean that it is possible that something is not the case, while `could not` means that something is impossible.
 > Steve may not get the job.
 > I couldn't run a marathon. It's impossible for me.
 

@@ -51,3 +51,44 @@
 7. This writing is terrible. That might be an 'e', but I'm not sure.
 > I don't believe it! You can't have failed your exam!
 8. I don't believe it! You can't have failed your exam!
+
+
+## Working with article
+
+### Beginning
+- entry
+- initial
+- jump into
+- pre-requisite
+- to generate
+- to pitch
+- foundation
+- early shaping
+- early stage
+- getting started
+
+### In process
+- to progress
+- to facilitate
+- to present
+
+### Finishing
+- overall
+- experiencied
+- to close
+- purpose
+
+
+### People emotions
+- aversion
+- anxiety
+- sense of affliction
+- fear
+- to enjoy
+- excitement
+- comfort
+- relief
+- acquainted
+- immersion
+- engagement
+- attractive
