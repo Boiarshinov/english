@@ -3,6 +3,10 @@
 - `a` / `an` - with singular countable noun in general (not specific) or sonething that introduced for the first time
 - `the` - with singular countable specific noun
 
+With the plural nouns we should use `the` or don't use article at all:
+> I have the books in my locker.
+> I have books in my locker.
+
 ## Special rules
 
 1. Countries
@@ -48,3 +52,8 @@ Abstract nouns - kind of nouns for which you don't add `-s` in plural form.
 For example: freedom, information, etc.
 
 But if you talk about specific information, then you should use `the`.
+
+
+---
+## Sources
+- [Articles with plural nouns](https://www.grammarly.com/blog/articles-with-plural-nouns/)
