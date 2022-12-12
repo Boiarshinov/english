@@ -36,6 +36,42 @@ Cases:
 > She was punished by teachers for answering back
 
 
+## Down
+- direction of movement
+> look down
+- reduction, decrease
+> slow down, calm down, cool down, cut down on, dress down
+- worsening
+> let down, close down, step down, brake down
+- decline, stop
+> turn down, close down
+- behave as snob
+> talk down
+- beeing tough
+> crack down
+
+## Up
+- direction of movement
+> come up, look up
+- increase
+    - in value
+> put up, go up, look up
+    - in size
+> grow up, bring up
+    - in speed
+> speed up, hurry up
+    - in heat
+> warm up, heat up
+    - in hapiness
+> cheer up, liven up
+    - sound
+> turn up, speak up
+    - in strength
+> build up, pick up
+- highlight
+> bring up
+
+
 ---
 ## Sources
 - [Phrasal verbs with `back`](https://talkintownenglish.com/2020/07/29/8-phrases-with-back-and-how-to-use-them/)
