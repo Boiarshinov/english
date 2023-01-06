@@ -56,6 +56,9 @@ If you can't replace `maybe` with `perhaps`, use the `may be`.
 `Could` often means that something is possible but unlikely.
 > You could win a million dollars in this game!
 
+`Can`
+> How can they still not be here?
+
 `Might not` and `may not` mean that it is possible that something is not the case, while `could not` means that something is impossible.
 > Steve may not get the job.
 > I couldn't run a marathon. It's impossible for me.
@@ -63,6 +66,13 @@ If you can't replace `maybe` with `perhaps`, use the `may be`.
 `Must` and `can't` are opposites. Both indicate certainty, but while `must` means that we are certain that something is true, `can't` expresses our conviction that something is impossible.
 > She isn't answering the phone - she must be out.
 > Nick can't be in Scotland - I saw him this morning.
+
+In the past tense `must` and `may`/`might` phrases are transforming to present perfect:
+> She must has been in America. She knows English so well!
+> Anna might has passed the EILTS exam.
+
+`should have done` - regrets
+> todo
 
 ---
 ## Asking for permission
