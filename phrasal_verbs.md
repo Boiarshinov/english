@@ -59,7 +59,7 @@ Cases:
     - in size
 > grow up, bring up
     - in speed
-> speed up, hurry up
+> speed up, hurry up, keep up
     - in heat
 > warm up, heat up
     - in hapiness
@@ -68,9 +68,53 @@ Cases:
 > turn up, speak up
     - in strength
 > build up, pick up
+- improve
+> set up, check up
 - highlight
 > bring up
+- support
+> back up
+- explode
+> blow up
+- stop, finish
+> break up, eat up, drink up, heal up
+- completely
+> dry up, pack up
+- mention
+> bring up
 
+
+## In
+- direction of movement
+> jump in, pop in, brake in
+- to be part of group
+> join in
+- be inside
+> stay in, let in, 
+- becoming connected
+> check in
+- to fill some hollow
+> fill in, put in, bring in
+- to be in the flow
+> take in
+
+## Out
+- direction of movement
+> throw out
+- be outside
+> eat out, leave out
+- unusual, impressive
+> stand out
+- finish connection
+> check out
+- switch off
+> pass out, black out, knock out, run out of
+- bring to the surface
+> find out, come out
+
+
+## Off
+> write off
 
 ---
 ## Sources
