@@ -13,7 +13,8 @@ There is a common phrases with `say`:
 - `to say nothing`
 - `to say yes`
 - `say no more!`
-
+- `dare say` - todo
+- `rather not say it` - todo
 
 ## Tell
 
@@ -33,6 +34,7 @@ There is a common phrases with `tell`:
 - `to tell the future`
 - `to tell the time`
 - `to tell the difference`
+- `to tell off` - punish
 
 
 ## Speak
@@ -52,6 +54,11 @@ When you took the telephone:
 `speak in favor of` - when you accepting something
 `speak against` - when you decline something
 
+- `rather not speak on it` - todo
+- `to be on speaking terms` - todo
+- `to speak my mind` - speak clearly
+- `to speak ill of smb` - say smth bad about one
+
 
 ## Talk
 
@@ -60,6 +67,9 @@ When you took the telephone:
 
 `Talk` means discuss something:
 > My dad loves to talk sports
+
+- `to talk back` - reply aggressivly
+- `to talk down` - talk as boss
 
 
 ---
