@@ -36,7 +36,7 @@ Find linguistic expressions that convey
 - __out to lunch__ - slightly crazy
 - nonsense
 - divine retribution
-- conspirational
+- conspiratorial
 
 
 ## Evidence
