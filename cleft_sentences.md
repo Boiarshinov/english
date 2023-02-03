@@ -1,6 +1,6 @@
 # Cleft sentences
 
-Cleft sentence is a compex sentence with a meaning that can be expressed by a simple sentence.
+Cleft sentence is a complex sentence with a meaning that can be expressed by a simple sentence.
 > It's money that I love -> I love money
 
 It's amplification why cleft sentences are used for.

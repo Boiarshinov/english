@@ -1,6 +1,7 @@
 # Necessity
 
 - `have to` - necessity comes outside of the speaker
+- `have got to` - more formal way  
 - `must` - necessity comes from the speaker. He decided to do something. General rules
 - `should` - advice
 - `ought to` - duty; it's the right thing to do, but people don't always do it
