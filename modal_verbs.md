@@ -1,6 +1,7 @@
 # Modal verbs
 
 In linguistics and philosophy, modality refers to the ways language can express various relationships to reality or truth.
+Expressing reality from our personal view.
 
 - `can` (`could`)
 - `may` (`might`)
@@ -68,18 +69,39 @@ If you can't replace `maybe` with `perhaps`, use the `may be`.
 > Nick can't be in Scotland - I saw him this morning.
 
 In the past tense `must` and `may`/`might` phrases are transforming to present perfect:
-> She must has been in America. She knows English so well!
-> Anna might has passed the EILTS exam.
+> She must have been in America. She knows English so well!
+> Anna might have passed the EILTS exam.
+
+`Have` never transform to `has` in this case. Even for `he` and `she`.
+
 
 `should have done` - regrets
 > todo
+Should used for some thoughts based on previous experience
+> The train should came in 5 minutes. Because the last one was a long time ago
 
 ---
-## Asking for permission
+## Asking for permission, forbidding
 
-`can`, `could`, `may`, `might`, `will`
+Model verbs to ask for permission:
+- `can` 
+- `may`. `May` is a very polite way to ask someone for permission.
+- `could` - very rare
+- `will` - informal request
 
-`May` is a very polite way to ask someone for permission.
+> Can I come to the lecture? - You can but you may not
+> Will you please do something? - informal. For formal context - can, could
+
+Answering in negative way:
+> No, you __can't__
+> No, you __mustn't__. It is against the law
+
+Helpful lexicon for answering
+> never mind
+> fire away
+> go ahead
+> of course 
+> Dou you mind?
 
 
 ---
@@ -87,6 +109,19 @@ In the past tense `must` and `may`/`might` phrases are transforming to present p
 
 Verbs `must`, `need`, `have to`, `should` can be used to declare [necessity and obligation and prohibition](necessity.md).
 
+---
+## Willingness and unwillingness
+
+- `will` - strong resolution (in the habit in present)
+- `would` - for past and for repeated actions in the past
+
+> He would spend hours reading in his armchair
+
+> Why would you do that? (rithorical question)
+
+If you see full form of `will`, it's a high chance that it is a modal verb.
+
+> I try try to talk with him, but he wont listen
 
 
 ---
