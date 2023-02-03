@@ -37,3 +37,22 @@
 > Body lice evolve from hair lice.
 - cradle - origin place of something
 > Humans migrated from African cradle.
+
+
+## Youtube video adapted text 
+
+There is a myth that all media adapted from video game tends to be bad, especially movies and TV shows.
+But times have been changing over the past few years.
+I think it's really time that critics and entertaiment journalists move on from this narrative and find another way to talk about video game movies and shows.
+
+Pokemon, Castlevania Netflix show and if that's not enough than what about another Netflix show that every entertaiment journalist and critic has seemingly forgotten about when discussing the video games adaptation curse, a little show called Arcane.
+Times are changing, we've had far too many successes over the years to really refer it as a curse anymore.
+Critics have to look at the whole and rewire their brain because it's time to no longer talk about it in that way.
+
+
+Prepositions:
+- This tradition dates back to medieval times.
+- How can you get by on so little money?
+- What is he hinting at?
+- We all need a roof over our head.
+- They need to include more people if the scheme's going to really take off.
