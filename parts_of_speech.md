@@ -6,3 +6,8 @@
 - __Adverb__ - describing word for verbs. Example: quietly, slowly, etc.
 - __Pronoun__ - `I`, `he`, `she`, `we`, `they`, etc.
 - __Preposition__ - `on`, `in`, `from`, `over`, etc.
+
+
+- __Proverb__ - traditional saying expressing a general truth based on common sence or experience
+> Don't count your chickens before they hatch.
+> All that glitters is not gold.
