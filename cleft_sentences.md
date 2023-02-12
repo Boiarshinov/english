@@ -12,7 +12,7 @@ Types of cleft sentences
 - __it-cleft__ - starting with `it`
 > It was John that Mary saw.
 - __wh-cleft__
-> What Mikle bougth was a brand new motorcicle.
+> What Mikle bought was a brand new motorcicle.
 > What I really like to mention ...
 - __reversed wh-cleft__
 > A new motorcicle is what he wanted to buy.
