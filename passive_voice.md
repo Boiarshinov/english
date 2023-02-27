@@ -24,6 +24,9 @@ The structure adapts to the aspect of the verb:
 With the modals: `modal + be + verb 3rd form`
 > A Nintendo Switch controller can be used for the Just Dance game.
 
+In future tense structure will be as: `will + be + verb 3rc form`.
+> Julia is preparing dance competition. A winner will be awarded with the latest release of Just Dance videogame.
+
 The action performer is introduced by the `by` preposition or is ommited. 
 Just as in the previous sentence, lol.
 
