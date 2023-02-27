@@ -43,21 +43,40 @@ Perfect aspect is for the looking back from a specific time and talk about thing
 ## Mood
 
 ### Subjunctive
+The subjunctive is a grammatical mood or verb form that is used when referring to wishes, proposals or hypothetical scenarios.
+
+The subjunctive mood is most commonly spotted and used within sentences that contain two or more clauses. In one clause there will be a subjunctive verb, and in the other will be an indicative verb.
+
 Often used with subjunctive verbs:
 - `wish`
 > I wish he stop using remarks.
+- `advice`
+- `ask`
+- `command`
+- `demand`
+- `desire`
+- `insist`
 - `sudjest`
 - `recommend`
 - `forbid`
 - `hope`
+
+Structure:
+`<Actor> + <verb> + that + <another actor> + <verb without -s on the end>`
+> I advice that you be there tonight
+`<Actor> + <anxious adjective> + that + <another actor> + <verb without -s on the end>`
+> It's crutial that he sing in performance
 
 `wish you were` - is an odd
 
 We can use past tense with subjunctive mood.
 > If only they came
 
+Always `were` instead of `was`
+
 
 ---
 ## Sources
 - [Continuous aspect](https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/continuous-aspect)
 - [Perfect aspect](https://learnenglish.britishcouncil.org/grammar/english-grammar-reference/perfect-aspect)
+- [Subjunctive mood](https://www.twinkl.com/teaching-wiki/subjunctive-mood)
