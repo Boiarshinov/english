@@ -6,6 +6,9 @@
 - __Adverb__ - describe a word for verbs. Example: quietly, slowly, etc.
 - __Pronoun__ - `I`, `he`, `she`, `we`, `they`, etc.
 - __Preposition__ - `on`, `in`, `from`, `over`, etc.
+- __Object__
+  - _direct_ - noun without preposition
+  - _indirect_ - noun 
 
 
 - __Proverb__ - traditional saying expressing a general truth based on common sence or experience

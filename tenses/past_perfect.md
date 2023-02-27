@@ -1,6 +1,9 @@
 # Past Perfect
 
-Something that happened in the middle of another event in the past.
+- Something started in the past and continued up to another event in the past
+- Something that happened in the middle of another event in the past.
+- When we reporting our experience up to the point in the past
+> My 18 birthday was the worst day I had ever had.
 
 Structure:
 - affirmative: `<subject> had <verb 3 form> <object>`

@@ -14,6 +14,9 @@ Types of cleft sentences
 - __wh-cleft__
 > What Mikle bought was a brand new motorcicle.
 > What I really like to mention ...
+> What I wanted to do was to make them friends.
+> What globalisation did with the inequality was eased it. - emphasis on verb
+> Who stole a book from the library was Jack.
 - __reversed wh-cleft__
 > A new motorcicle is what he wanted to buy.
 > The person who did it was really irresponsible.
