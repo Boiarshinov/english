@@ -13,8 +13,8 @@ After comparative form should be word `than`:
 After superlative form should be words `of/in`:
 > Jim was the tallest boy in the class.
 
-Some adjectives cannot be transform to comparative and superlative forms.
-In such case we should use `more <adj> than` and `most <adj> of/in`:
+Some adjectives (longer ones) cannot be transform to comparative and superlative forms.
+In such case we should use `more <adj> than` and `the most <adj> of/in`:
 > Alice was the most attractive woman in the office.
 
 Some adjectives can be used in both ways:
@@ -53,14 +53,21 @@ Superlative:
 - far -> farther -> farthest
 - far -> further -> furthest
 
+`Further` can be used as the adjective as well as the adverb.
+> Adjective: For further information, see the secretary.
+> Adverb: His house is further away from the bus stop than mine.
 
 ---
 ## Special comparisons
 - `as <smth> as`
+- `not so <smth> as`
+- `less <smth> than`
 - `prefer <-ing> to <-ing>`
 - `would prefer to <inf> rather than <inf>`
 
 > Russian corruption is as high as corruption in Eritrea.
+> Playing games is not so enjoying as watching gameplay videos.
+> Anton is less stretched as Sergey.
 > I prefer drinking beer to drinking wine.
 > I would prefer to die rather than kill another people.
 

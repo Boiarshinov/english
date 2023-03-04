@@ -88,7 +88,7 @@ Cases:
 - direction of movement
 > jump in, pop in, brake in
 - to be part of group
-> join in
+> join in, add in
 - be inside
 > stay in, let in, 
 - becoming connected

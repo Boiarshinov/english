@@ -61,6 +61,20 @@ The noun clause can be the subject either:
 `whether` or `if`
 
 
+---
+## Relative clause
+Noun clause replaces the noun and relative
+Linking elements of two parts:
+- `who`
+- `that`
+- `which`
+> I saw a woman who ...
+> 
+- `some`
+- `much`
+- `many`
+- `those`
+
 ## Adjective clauses
 
 `<present> -> any tense`
