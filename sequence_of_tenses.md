@@ -19,8 +19,9 @@ Time words:
 - `before`
 - `after`
 - `as soon as`
+- `until`
 
-### Future
+### Future and Present
 `<main clause> <time word> <present simple/perfect>`
 > The meeting will begin as soon as everyone arrives. 
 > I am going to review the file before I meet with the new client.
@@ -75,6 +76,8 @@ Linking elements of two parts:
 - `many`
 - `those`
 
+
+---
 ## Adjective clauses
 
 `<present> -> any tense`
@@ -89,6 +92,21 @@ preposition comes in the end.
 
 It's preferred to use past simple rather than past perfect
 
+
+---
+## Purpose clause
+
+- `to`
+- `in order to`
+- `so as`
+- `so that` - used to reference. Always goes with additional clause
+> Ships carry life boats so that the crew can escape when the ship sinks.
+
+`so as`, `so that` can not be used at the start of a sentence.
+Use `in order to` in this case.
+
+negative
+> Concentrate on your exercise to not make any mistakes.
 
 ---
 ## Sources
