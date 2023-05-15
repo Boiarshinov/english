@@ -11,7 +11,7 @@ There are some rules which helps to distinguish the form of verb: singular or pl
 > They drink too much
 - When subject is composed from several nouns with 'and' preposition, use the plural verb
 > Me, myself and I do a lot of work for this project.
-- When two or more subjects composed with `or`, `either`, `neither`, use the verb vorm matched with form of the last subject in list
+- When two or more subjects composed with `or`, `either`, `neither`, use the verb form matched with form of the last subject in list
 > The president or the vice president is speaking today.
 > The student or the committee members write every day.
 - In `there is`, `there are` sentences verb should agree with the following subject

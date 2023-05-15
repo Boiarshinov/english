@@ -1,11 +1,14 @@
 # Articles
 
-- `a` / `an` - with singular countable noun in general (not specific) or sonething that introduced for the first time
-- `the` - with singular countable specific noun
+- `a` / `an` - with singular countable noun in general (not specific) or something that is introduced for the first time
+- `the` - with singular or plural countable or uncountable specific noun
 
 With the plural nouns we should use `the` or don't use article at all:
 > I have the books in my locker.
 > I have books in my locker.
+
+With uncountable nouns we should use `some` or don't use article at all:
+> Would you like some tea? 
 
 ## Special rules
 
@@ -15,7 +18,8 @@ In most cases you shouldn't use article with the country name:
 
 But use with acronym countries and group of states/islands:
 > I live in the Phillipines
-> I'm from Netherlands (has -s suffix)
+> I'm from the Netherlands (has -s suffix)
+> He is from the USA
 
 2. Meals
 Breakfest, Brunch, Lunch, Dinner.

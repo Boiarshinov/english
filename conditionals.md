@@ -42,7 +42,7 @@ For unrealistic supposition. Also used to give advice.
 ### Unreal past
 Unreal or improbable situation in the past.
 Something happen and nothing could be done.
-For something unchangeable:
+For something unchangeable when you regret about it:
 `If <past perfect> then I would <present perfect>`
 > If you had prepared better, you would have passed the exam.
 > He wouldn't have fallen from ladder if he had been more careful.
