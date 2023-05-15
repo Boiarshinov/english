@@ -6,6 +6,7 @@
 - __Adverb__ - describing word for verbs. Example: quietly, slowly, etc.
 - __Pronoun__ - `I`, `he`, `she`, `we`, `they`, etc.
 - __Preposition__ - `on`, `in`, `from`, `over`, etc.
+- __Participle__ - verb form describing a noun (as an adjective). Example: driven, gone, done
 - __Subject__ - main actor
 - __Object__ - something that is used, dependent
   - _direct_ - noun without preposition
@@ -16,6 +17,10 @@
 > Don't count your chickens before they hatch.
 > All that glitters is not gold.
 
+Verbals are not a verbs, but derived from it:
+- __infinitive__
+- __gerund__
+- __participle__
 
 ---
 ## Adjective
@@ -58,3 +63,14 @@ Adverbs are used after a verb.
 > She sings well.
 But adverbs of frequency such as `often`, `usually` go after an auxiliary verb but before a main verb.
 > She is never late.
+
+
+---
+## Participles
+
+- present participle - ends with `-ing`.
+> blowing, 
+- past participle - ends with `-ed`, `-en`, etc.
+> broken, noticed
+
+Present participle for active and past participle for passive
