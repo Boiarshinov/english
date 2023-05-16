@@ -9,7 +9,7 @@
 - for fixed arrangements in the near future
 > I'm flying to London tomorrow
 
-Time expressions with the present simple:
+Time expressions with the present continuous:
 - `now`
 - `at the moment`
 - `at present`
