@@ -4,7 +4,7 @@
 - __Verb__ - action word
 - __Adjective__ - describe a noun. Example: beautiful, clever, etc.
 - __Adverb__ - describing word for verbs. Example: quietly, slowly, etc.
-- __Pronoun__ - `I`, `he`, `she`, `we`, `they`, etc.
+- __Pronoun__ - `I`, `he`, `she`, `we`, `they`, `it` etc.
 - __Preposition__ - `on`, `in`, `from`, `over`, etc.
 - __Participle__ - verb form describing a noun (as an adjective). Example: driven, gone, done
 - __Subject__ - main actor
@@ -74,3 +74,33 @@ But adverbs of frequency such as `often`, `usually` go after an auxiliary verb b
 > broken, noticed
 
 Present participle for active and past participle for passive
+
+
+---
+## Pronouns
+- personal - `I`, `he`, `she`, `you`, `it`, `we`, `they`
+- demonstrative - `this`, `these`, `that`, `those`
+- interrogative - 
+- relative - 
+- indefinite - 
+- reflexive - `myself`, `yourself`, `himself`, `themselves`, etc.
+- intensive - 
+- possessive - `mine`, `his`, `hers`, `yours`, `ours`, `theirs`
+
+### Demonstrative
+`this` and `that` for single objects.
+`these` and `those` for plurals.
+
+`this` and `these` are:
+- for people and objects near us
+> This guitar over here is mine.
+- for present or future situations
+> I'm going to Amsterdam this summer.
+
+`that` and `those` are:
+- for people and objects not near us
+> That chair over there is broken.
+- for past situations
+> We had a wonderful vacation that year.
+- to refer back something mentioned before
+> I have failed my Exams. - That's too bad.
