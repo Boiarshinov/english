@@ -75,32 +75,3 @@ But adverbs of frequency such as `often`, `usually` go after an auxiliary verb b
 
 Present participle for active and past participle for passive
 
-
----
-## Pronouns
-- personal - `I`, `he`, `she`, `you`, `it`, `we`, `they`
-- demonstrative - `this`, `these`, `that`, `those`
-- interrogative - 
-- relative - 
-- indefinite - 
-- reflexive - `myself`, `yourself`, `himself`, `themselves`, etc.
-- intensive - 
-- possessive - `mine`, `his`, `hers`, `yours`, `ours`, `theirs`
-
-### Demonstrative
-`this` and `that` for single objects.
-`these` and `those` for plurals.
-
-`this` and `these` are:
-- for people and objects near us
-> This guitar over here is mine.
-- for present or future situations
-> I'm going to Amsterdam this summer.
-
-`that` and `those` are:
-- for people and objects not near us
-> That chair over there is broken.
-- for past situations
-> We had a wonderful vacation that year.
-- to refer back something mentioned before
-> I have failed my Exams. - That's too bad.
