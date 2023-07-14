@@ -68,6 +68,8 @@ Cases:
 > turn up, speak up
     - in strength
 > build up, pick up
+    - in quantity
+> pile up
 - improve
 > set up, check up
 - highlight
@@ -96,7 +98,7 @@ Cases:
 - to fill some hollow
 > fill in, put in, bring in
 - to be in the flow
-> take in
+> take in, play in
 
 ## Out
 - direction of movement
@@ -115,6 +117,13 @@ Cases:
 
 ## Off
 > write off
+
+
+## Against
+> to go against
+- opposite
+>
+- 
 
 ---
 ## Sources

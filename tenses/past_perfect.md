@@ -4,6 +4,8 @@
 - Something that happened in the middle of another event in the past.
 - When we reporting our experience up to the point in the past
 > My 18 birthday was the worst day I had ever had.
+- Past equivalent of Present Perfect.
+> He wasn't at the office. He had already left.
 
 Structure:
 - affirmative: `<subject> had <verb 3 form> <object>`
@@ -19,5 +21,8 @@ There is often adverbs in past perfect:
 - `still`
 - `ever`
 - `never` 
+- `when`
+> When they had saved enough money they bought a house.
+- `by the time`
 
 > I had never seen something like that.

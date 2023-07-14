@@ -40,6 +40,8 @@ Exceptions: `ought to`, `need to`, `have to`.
 For everything other - `be able to`.
 > He hasn't been able to call them yet but he can call them tomorrow.
 
+`Could` is for the repeated actions in the past, while `be able to` is for a single action in the past.
+
 ---
 ## Probability and possibility
 

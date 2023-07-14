@@ -30,7 +30,7 @@ Time words:
 `<past simple/perfect> <time word> <any past tense>`
 
 
-When before or after is the time word, you can use two simple past verbs in a sentence that would normally require one past perfect verb and one simple past verb.
+When `before` or `after` is the time word, you can use two simple past verbs in a sentence that would normally require one past perfect verb and one simple past verb.
 The past perfect is not required because the inclusion of before or after makes the difference in times clear.
 `<past simple> <time word> <past simple>`
 > Rick’s daughter locked herself in her room after he grounded her.
