@@ -29,11 +29,17 @@
 - Excuse me but I need to remark you
 
 
-## So, either, neither
-`And so do I`
-`Me either`
-`And neither did I`
-`I'm not either`
+## So, either, neither, nor
+
+We use `so`, `either` to agree with positive statements:
+> And so do I
+> Me either
+
+We use `neither`, `nor` to agree with negative statements:
+> I never flied on the plane.
+  And neither did I.
+> I don't eat meat.
+  Nor do I.
 
 
 ---
