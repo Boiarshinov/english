@@ -3,15 +3,15 @@
 Tag questions are small questions added after a regular sentence.
 > You're hungry. Aren't you?
 
-If the first sentence was positive then the question tag should be negative.
-If the first sentence was negative then the question tag should be positive.
-> They cant afford to buy a house. Can they?
+If the first sentence was positive than the question tag should be negative.
+If the first sentence was negative than the question tag should be positive.
+> They can't afford to buy a house. Can they?
 
 It's very easy to transform regular question into the tag question:
 > Are you coming to the party?
 > You are coming to the party, aren't you?
 
-If there is no helper verb in the initial phrase then use `do`:
+If there is no auxiliary verb in the initial phrase than use `do`:
 `any verb` -> `do`
 > He likes basketball, doesn't he? 
 
